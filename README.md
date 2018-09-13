@@ -1,1 +1,1 @@
-# autormorphing-kernels
+# automorphing-kernels
